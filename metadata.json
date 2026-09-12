@@ -1,0 +1,6 @@
+{
+  "name": "Stock Price Movement Predictor",
+  "description": "Institutional time-series market movement predictor with zero-leakage target construction, strict naive baselines, and technical indicator engineering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
